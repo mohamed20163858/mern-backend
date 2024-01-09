@@ -8,7 +8,13 @@ npm i nodemon
 
 npm i dotenv
 
-npm i mongoose
+npm i mongoose 
+
+npm i bcrypt
+
+npm i validator
+
+npm i jsonwebtoken
 ```
 
 # windows problems 
